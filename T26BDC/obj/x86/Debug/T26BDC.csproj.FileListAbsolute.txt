@@ -1,0 +1,10 @@
+C:\aa_p1\TS26\T26BDC\bin\Debug\T26BDC.exe
+C:\aa_p1\TS26\T26BDC\bin\Debug\T26BDC.pdb
+C:\aa_p1\TS26\T26BDC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\aa_p1\TS26\T26BDC\obj\x86\Debug\T26BDC.csproj.ResolveComReference.cache
+C:\aa_p1\TS26\T26BDC\obj\x86\Debug\T26BDC.Form_D4C.resources
+C:\aa_p1\TS26\T26BDC\obj\x86\Debug\T26BDC.Properties.Resources.resources
+C:\aa_p1\TS26\T26BDC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\aa_p1\TS26\T26BDC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\aa_p1\TS26\T26BDC\obj\x86\Debug\T26BDC.exe
+C:\aa_p1\TS26\T26BDC\obj\x86\Debug\T26BDC.pdb
